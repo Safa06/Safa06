@@ -13,12 +13,12 @@
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,  css,  js,  react,  tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,  express" />
 </p>
 
 ### 🗄️ Database
@@ -28,10 +28,5 @@
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vs-code,postman" />
-</p>
-
-### 🌱 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=git,  github,  vs-code,  figma" />
 </p>
