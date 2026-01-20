@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github.jfif" />
+</p>
+
 ### 👋 About Me
 🎓 Computer Science & Engineering Graduate  
 💻 MERN Stack Developer  
