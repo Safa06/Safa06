@@ -28,5 +28,5 @@
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,  github,  vs-code,  figma" />
+  <img src="https://skillicons.dev/icons?i=git, github, vs-code, figma" />
 </p>
