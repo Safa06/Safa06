@@ -32,11 +32,17 @@
 </p>
 
 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Safa06&show_icons=true&theme=github_dark&count_private=true" height="180" style="margin-right:20px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safa06&layout=compact&theme=github_dark" height="180"/>
 </p>
+
+
+## 📫 Contact Me
+- ✉️ Email: sukonna.safa@gmail.com
+- 📱 Phone: +8801535763676
 
 
