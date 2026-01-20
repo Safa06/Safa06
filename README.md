@@ -21,6 +21,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&count_private=true&hide=contribs,prs" />
+</p>
+
 ### 🗄️ Database
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
